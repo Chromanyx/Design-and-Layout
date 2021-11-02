@@ -310,7 +310,8 @@ nav{
         color: deepskyblue;
     }
     .switch{
-        float: center;
+        float: inherit;
+        margin: auto;
     }
 }
 .home-wrapper{
