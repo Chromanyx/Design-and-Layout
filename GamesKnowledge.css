@@ -64,6 +64,7 @@
 .switch{
     position: relative;
     width: 90px;
+    float: right;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -307,6 +308,9 @@ nav{
     }
     .navigation-bar ul li a{
         color: deepskyblue;
+    }
+    .switch{
+        float: center;
     }
 }
 .home-wrapper{
